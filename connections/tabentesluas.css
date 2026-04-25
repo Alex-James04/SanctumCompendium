@@ -1,0 +1,13 @@
+@media screen and (max-width: 768px) {
+    body > div {
+        min-width: 80vw;
+    }
+}
+
+.rot {
+    color: #615832;
+}
+
+.love {
+    color: rgb(184, 0, 40);
+}
